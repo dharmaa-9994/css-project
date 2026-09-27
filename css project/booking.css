@@ -1,0 +1,14 @@
+form{border-color: black;
+border-width: 3px;
+border-style: solid;
+display: inline-block;
+width: 400px;
+padding: 70px;
+margin-left: 30%;
+margin-top: 50px;}
+td{padding: 10px;}
+.head{text-align: center;
+padding: 20px;}
+form{
+    background-color:rgb(149, 179, 190);
+display: inline-block}
